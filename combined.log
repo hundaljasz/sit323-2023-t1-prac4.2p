@@ -1,0 +1,20 @@
+{"level":"error","message":"number 2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"number 2 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 2 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 11 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 11 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 11 and 1 received for addition","service":"calculate-service"}
+{"level":"error","message":"number 1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 1 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 1 and 11 received for addition","service":"calculate-service"}
